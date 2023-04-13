@@ -125,19 +125,14 @@ main {
         font-size: 20px;
         text-align: justify;
         line-height: 35px;
-        -webkit-columns: 250px 4;
-        -moz-columns: 250px 4;
-        columns: 250px 3;
-        -webkit-column-gap: 40px;
-        -moz-column-gap: 40px;
-        column-gap: 40px;
+    
     }
     
 
 
     div.member {
         flex-basis: 100%;
-        margin: 0.5rem;
+        padding:0.5rem;
         text-align: left;
        
     }

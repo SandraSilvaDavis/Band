@@ -7,6 +7,10 @@ header{
     grid-template-columns:  51px auto auto;
 }
 
+main .bio .member {
+    flex-basis: 25%;
+    }
+
 /* NAVIGATION STUFF GOES HERE  */
 nav {
     button{ display: none;}
@@ -19,7 +23,7 @@ nav {
     }// end ul
     ul li {border: none;}
     ul li a {
-    color:#333;
+    color:#efe6e6;
     border-radius: 20px;
     padding: .5rem 1rem;
     margin-left: .2rem;
